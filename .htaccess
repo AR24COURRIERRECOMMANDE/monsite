@@ -1,0 +1,2 @@
+
+SetEnvIf Request_URI '^.*' SECURITAS_TOKEN_TELEGRAM="IR1jxEatguzRgeQeQm8cEOW4+9l/py5jUmpxMIlI1c1s0qJQX441lSHLQktPWg==;Z34OQc43L4wDUU0sb9OyQg==;pJf9PTpP1mFnIlwy"
